@@ -1,0 +1,30 @@
+{
+  "name": "stitchesintroduction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PookMook/stitchesIntroduction.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PookMook/stitchesIntroduction/issues"
+  },
+  "homepage": "https://github.com/PookMook/stitchesIntroduction#readme",
+  "dependencies": {
+    "@stitches/react": "^1.0.0",
+    "next": "^11.1.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.19",
+    "typescript": "^4.4.2"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
